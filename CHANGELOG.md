@@ -5,6 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.1](https://github.com/es-shims/Array.prototype.entries/compare/v1.0.0...v1.0.1) - 2020-11-17
+
+### Commits
+
+- [Tests] migrate tests to Github Actions [`773e12a`](https://github.com/es-shims/Array.prototype.entries/commit/773e12ad1dbc73b13bcf109052969a54ffe6a9b2)
+- [Deps] update `es-abstract`; use `call-bind` where applicable [`009d943`](https://github.com/es-shims/Array.prototype.entries/commit/009d943289f36caf327125b3ddcfb19301102bf3)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `aud`, `auto-changelog`, `tape` [`e4fb1c1`](https://github.com/es-shims/Array.prototype.entries/commit/e4fb1c1406ab6204b1808fb90e681aa7b1c9eb22)
+- [Tests] run `nyc` on tests by default [`b2bc88d`](https://github.com/es-shims/Array.prototype.entries/commit/b2bc88d81f97379ee7c1d748e96b45f09da2bd08)
+- [actions] add "Allow Edits" workflow [`1880a4d`](https://github.com/es-shims/Array.prototype.entries/commit/1880a4dc88e7fac35675bc696be32ecf98262c5f)
+- [eslint] lint mjs files; ignore coverage output [`e372e4e`](https://github.com/es-shims/Array.prototype.entries/commit/e372e4edc380e9e33e93ddfcc754849026bfcf68)
+- [Dev Deps] update `aud`, `auto-changelog` [`15406d9`](https://github.com/es-shims/Array.prototype.entries/commit/15406d9fccfb8c9ebfeacd5b48c81a5ffba0a359)
+- [Dev Deps] update `auto-changelog`, `tape` [`8c597ba`](https://github.com/es-shims/Array.prototype.entries/commit/8c597ba512ad188cd834015378406940cd804968)
+- [Tests] only audit prod deps [`be6d114`](https://github.com/es-shims/Array.prototype.entries/commit/be6d114d5f55133f8ba6573460ea5de5ccfa57f3)
+- [readme] remove greenkeeper badge [`4a06ede`](https://github.com/es-shims/Array.prototype.entries/commit/4a06ede1bb998c2e34c7b65ecd93c484544b7561)
+- [actions] switch Automatic Rebase workflow to `pull_request_target` event [`ebebfe8`](https://github.com/es-shims/Array.prototype.entries/commit/ebebfe89536c01bad3657ac1546c01590d37a638)
+- [Deps] update `es-abstract` [`71a28ef`](https://github.com/es-shims/Array.prototype.entries/commit/71a28ef1a699b5605bb49930b635e0d1919d0c4a)
+- [Dev Deps] update `@ljharb/eslint-config` [`57d1dd0`](https://github.com/es-shims/Array.prototype.entries/commit/57d1dd087f9d7196873a1c14af027c8f8be17a3b)
+- docs(readme): add Greenkeeper badge [`5878b82`](https://github.com/es-shims/Array.prototype.entries/commit/5878b8201cf15d836f47e6c1c1db6edcfa98d641)
+
 ## v1.0.0 - 2020-01-21
 
 ### Commits
