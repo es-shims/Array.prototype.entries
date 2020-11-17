@@ -23,7 +23,7 @@
 		"prepublish": "safe-publish-latest",
 		"pretest": "npm run lint",
 		"prelint": "evalmd README.md",
-		"lint": "eslint .",
+		"lint": "eslint --ext=js,mjs .",
 		"tests-only": "nyc tape 'test/**'",
 		"test": "npm run tests-only",
 		"posttest": "npx aud --production",

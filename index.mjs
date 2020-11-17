@@ -8,7 +8,7 @@ const bound = callBind(getPolyfill());
 export default function entries(array) {
 	RequireObjectCoercible(array);
 	return bound(array);
-};
+}
 
 export { default as getPolyfill } from 'array.prototype.entries/polyfill';
 export { default as implementation } from 'array.prototype.entries/implementation';
