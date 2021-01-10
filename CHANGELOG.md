@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.2](https://github.com/es-shims/Array.prototype.entries/compare/v1.0.1...v1.0.2) - 2021-01-10
+
+### Commits
+
+- [meta] do not publish github action workflow files [`8bc0818`](https://github.com/es-shims/Array.prototype.entries/commit/8bc08180a8102eb5b809db0133df7fc3fed200df)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `functions-have-names`, `has-strict-mode`, `tape` [`7f1993d`](https://github.com/es-shims/Array.prototype.entries/commit/7f1993d48c042e50a22af72723191fd8f41b1d9a)
+- [Deps] update `call-bind`, `"es-create-array-iterator` [`d0231c8`](https://github.com/es-shims/Array.prototype.entries/commit/d0231c8e0ae491d5ddd7892abafd2e8101b03d5a)
+- [actions] update checkout action; remove unneeded github token [`a11859c`](https://github.com/es-shims/Array.prototype.entries/commit/a11859c697ef988f3bb94a94e37692f8fb65d4c4)
+- [Fix] add missing `auto` "exports" entry [`da61786`](https://github.com/es-shims/Array.prototype.entries/commit/da617869f3f3e608010fad6c07e7d8a0efa64e94)
+
 ## [v1.0.1](https://github.com/es-shims/Array.prototype.entries/compare/v1.0.0...v1.0.1) - 2020-11-17
 
 ### Commits
