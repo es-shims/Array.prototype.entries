@@ -1,6 +1,5 @@
 # array.prototype.entries <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
-[![Build Status][travis-svg]][travis-url]
 [![dependency status][deps-svg]][deps-url]
 [![dev dependency status][dev-deps-svg]][dev-deps-url]
 [![License][license-image]][license-url]
@@ -53,9 +52,7 @@ assert.deepStrictEqual(iterate([1, 2, 3].entries()), [[0, 1], [1, 2], [2, 3]]);
 Simply clone the repo, `npm install`, and run `npm test`
 
 [package-url]: https://npmjs.org/package/array.prototype.entries
-[npm-version-svg]: http://versionbadg.es/es-shims/Array.prototype.entries.svg
-[travis-svg]: https://travis-ci.org/es-shims/Array.prototype.entries.svg
-[travis-url]: https://travis-ci.org/es-shims/Array.prototype.entries
+[npm-version-svg]: https://versionbadg.es/es-shims/Array.prototype.entries.svg
 [deps-svg]: https://david-dm.org/es-shims/Array.prototype.entries.svg
 [deps-url]: https://david-dm.org/es-shims/Array.prototype.entries
 [dev-deps-svg]: https://david-dm.org/es-shims/Array.prototype.entries/dev-status.svg
