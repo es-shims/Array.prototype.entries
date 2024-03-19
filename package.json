@@ -5,14 +5,7 @@
 	"main": "index.js",
 	"type": "commonjs",
 	"exports": {
-		".": [
-			{
-				"import": "./index.mjs",
-				"require": "./index.js",
-				"default": "./index.js"
-			},
-			"./index.js"
-		],
+		".": "./index.js",
 		"./auto": "./auto.js",
 		"./polyfill": "./polyfill.js",
 		"./implementation": "./implementation.js",
